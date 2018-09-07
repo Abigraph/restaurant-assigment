@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<title>Geektutor.org</title>
+</head>
+<body>
+
+	body	{background-color:powderblue;}
+	h1, h2, h3, h4, h5, h6 {font:trebuchet, san serif, comic san;}
+	.head {color:red; font-size:80px; 
+		background-color:yellow;}
+	p {font: trebuchet, san serif; }
+	.white{background-color:#85A0EE;}
+	#id{font:12px trebuchet ms;}
+	footer{background-color:#85A0EE;}
+	
+</body>
+</html>
